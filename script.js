@@ -87,16 +87,17 @@ Hoje, pra confirmar nossas teses de outras vidas, no mesmo dia que o amor da min
 Faltam 100 dias pro milésimo dia junto, e pensar nisso é muito estranho porque parece que foi ontem que eu descia essa lombinha todo dia de semana só pra te encontrar e subir juntos. 
 
 Vou tentar ser breve pra ter menos trabalho de formatar depois Ajsjsjajs mas queria te agradecer primeiramente por tudo que tu é pra mim, e eu admiro muito muito muito a mulher que tu se tornou, da tua evolução profissional, do caminho que ta trilhando na nova empresa já deixando evidente tua qualidade, e de todas tuas qualidades pessoais também! Tua compreensão comigo, o tanto que cuida de mim, e o quanto que cuida de nós.
+
 Queria te desejar, e vou fazer o possível para tal, um futuro maravilhoso, com tempo pra curtir a vida além de bater ponto, viajar, ir pra lugares que queira conhecer, ter teus bichinhos, teu carro, tua (nossa?) casa, e tu tens tudo pra alcançar tudo isso sem precisar aumentar empenho nenhum, porque tudo o que tu luta, tudo o que tu já lutou, e toda a vontade de conseguir que tu tem é acima do suficiente pra isso, e tenho muito orgulho e sorte de poder ter te acompanhado mais de perto desde as batalhas de vestibulanda recém formada, e poder comemorar contigo cada passo pra frente na tua jornada. 
 
 Muito obrigado por ser a minha princesa, me perdoa pela falta de criatividade para o textinho, essa semana foi um porre e só me sobrou o pó e dor de cabeça sjsjskshs
 
-EU TE ÄCELUMDISPERILUSIOSOOOOOOOOOOOO
-TE AMO DAQUI ATÉ A LUA E VOLTANDO
-SEMPRE SERÁ A TERRA DO MEU JÚPITEEEER
+EU TE ÄCELUMDISPERILUSIOSOOOOO❤️
+TE AMO DAQUI ATÉ A LUA E VOLTANDO❤️
+SEMPRE SERÁ A TERRA DO MEU JÚPITEEEER❤️
 
-PARABÉEEEEEEEEEEEEEENS
-INFINITOS ANOS DE VIDA MINHA PRINCESAAAAAAAAAAA
+PARABÉEEEEEEEEEEEEEENS❤️
+INFINITOS ANOS DE VIDA MINHA PRINCESAAAAAAAAAAA❤️
 
 Para sempre seu,
 Com todo o amor do mundo ❤️`;
