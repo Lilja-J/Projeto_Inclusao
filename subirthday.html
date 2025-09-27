@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Aniversário, Meu Amor ❤️</title>
+    <meta name="description" content="Um presente especial feito com amor">
+    <meta name="author" content="Para a pessoa mais especial do mundo">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600;700&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <section class="hero-section">
+        <div class="hero-content">
+            <img src="src/assets/aniversariante.png" alt="Foto da pessoa mais linda do mundo" class="hero-profile-pic">
+
+            <div class="hero-text">
+                <h1 class="hero-title">
+                    Feliz Aniversário,<br>
+                    <span class="hero-highlight">
+                        Meu Amor
+                    </span>
+                </h1>
+                
+                <p class="hero-subtitle">
+                    Para a pessoa que mudou o meu mundo<br>
+                    e fez cada dia mais especial ❤️
+                </p>
+                
+                <div>
+                    <button class="btn-romantic hero-start-journey">
+                        Começar nossa jornada
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="timeline" class="section">
+        <div class="text-center mb-16 px-4">
+            <h2 class="text-4xl md:text-5xl font-playfair font-bold mb-4">
+                Nossas Recordações
+            </h2>
+            <p class="text-xl text-muted">
+                Cada momento especial da nossa jornada juntinhos
+            </p>
+        </div>
+
+        <div class="timeline-horizontal-wrapper">
+            <button id="timeline-prev" class="timeline-nav-btn">‹</button>
+            <div id="horizontal-timeline-container" class="horizontal-timeline">
+                </div>
+            <button id="timeline-next" class="timeline-nav-btn">›</button>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="text-center mb-16">
+                <h2 class="text-4xl md:text-5xl font-playfair font-bold mb-4">
+                    Nossos Números do Amor
+                </h2>
+                <p class="text-xl text-muted" style="max-width: 38rem; margin: 0 auto;">
+                    Cada segundo ao seu lado é precioso. Veja o quanto você significa na minha vida! ❤️
+                </p>
+            </div>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
+                <div class="love-card text-center counter-card">
+                    <div class="p-4 rounded-full text-white mb-4 inline-flex"
+                        style="background: linear-gradient(to right, var(--primary), var(--romantic));">📅</div>
+                    <h3 class="text-lg font-semibold mb-2">Dias Juntos</h3>
+                    <div class="counter-display mb-2" id="total-days">0</div>
+                    <p class="text-sm text-muted">e é recém o começo de ∞ dias juntos</p>
+                </div>
+
+                <div class="love-card text-center counter-card">
+                    <div class="p-4 rounded-full text-white mb-4 inline-flex"
+                        style="background: linear-gradient(to right, var(--romantic), var(--yellow-gold));">⏰</div>
+                    <h3 class="text-lg font-semibold mb-2">Tempo Real</h3>
+                    <div class="counter-display mb-2" id="real-time">0d 0h 0m 0s</div>
+                    <p class="text-sm text-muted">e contando...</p>
+                </div>
+
+                <div class="love-card text-center counter-card">
+                    <div class="p-4 rounded-full text-white mb-4 inline-flex"
+                        style="background: linear-gradient(to right, var(--yellow-gold), var(--accent));">📊</div>
+                    <h3 class="text-lg font-semibold mb-2">Da Tua Vida</h3>
+                    <div class="counter-display mb-2" id="her-percentage">0.00%</div>
+                    <p class="text-sm text-muted">passados juntinhos</p>
+                </div>
+
+                <div class="love-card text-center counter-card">
+                    <div class="p-4 rounded-full text-white mb-4 inline-flex"
+                        style="background: linear-gradient(to right, var(--accent), var(--primary));">❤️</div>
+                    <h3 class="text-lg font-semibold mb-2">Da Minha Vida</h3>
+                    <div class="counter-display mb-2" id="his-percentage">0.00%</div>
+                    <p class="text-sm text-muted">dedicados a você</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="text-center mb-16">
+                <div class="flex items-center justify-center gap-3 mb-4">
+                    <span class="text-2xl">🎵</span>
+                    <h2 class="text-4xl md:text-5xl font-playfair font-bold">Nossa Trilha Sonora</h2>
+                    <span class="text-2xl">🎵</span>
+                </div>
+                <p class="text-xl text-muted" style="max-width: 32rem; margin: 0 auto;">
+                    As músicas que tocam quando estamos juntos... cada uma se conecta com uma parte da nossa história até aqui❤️
+                </p>
+            </div>
+
+            <div class="love-card">
+                <div class="spotify-embed">
+                    <iframe data-testid="embed-iframe" style="border-radius:12px"
+                        src="https://open.spotify.com/embed/playlist/1lS2Nr2rpq6RQWSjcRDm7Q?utm_source=generator"
+                        width="100%" height="352" 
+                        frameBorder="0" allowfullscreen=""
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                        loading="lazy">
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section id="love-letter-section" class="section">
+        <div class="container text-center">
+            <div class="text-center mb-8">
+                <h2 class="text-4xl md:text-5xl font-playfair font-bold mb-4">
+                    Guardei o mais importante para o final...
+                </h2>
+            </div>
+            <div id="love-letter-trigger" class="love-envelope">
+                <div class="love-envelope-icon">💌</div>
+                <div class="love-envelope-text">Toque aqui para abrir</div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="text-2xl mb-4 animate-pulse">❤️</div>
+            <p class="text-lg font-playfair mb-2">
+                Feito com todo o meu amor para você ❤️
+            </p>
+            <p class="text-sm opacity-90">
+                <span id="current-year"></span> • Para sempre seu
+            </p>
+        </div>
+    </footer>
+
+    <div id="love-letter-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button id="close-letter-btn" class="close-btn">×</button>
+            <div class="love-letter-body">
+                </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        document.getElementById('current-year').textContent = new Date().getFullYear();
+    </script>
+</body>
+
+</html>
