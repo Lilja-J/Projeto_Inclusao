@@ -138,7 +138,7 @@ function setupTimelineNavigation() {
 }
 
 function initializeCounters() {
-    const relationshipStart = new Date('2023-04-10T15:30:00'); 
+    const relationshipStart = new Date('2022-04-10T15:30:00'); 
     const herBirthday = new Date('2002-09-27T00:00:00');
     const hisBirthday = new Date('2002-05-31T07:40:00');
 
